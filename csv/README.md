@@ -1,4 +1,10 @@
 # README
 ## history
 + japan-national-cencus-foreginer_2022.csv
-  + 国勢調査2020の外国人の分布のデータ
+  + 国勢調査2020の外国人の分布のデータ(xlsxを加工)
++ employment_2022_all.csv
+  + 就業構造基本調査の全体のデータ(xlsxを加工)
++ employment_2022_male.csv
+  + 就業構造基本調査の男性のデータ(xlsxを加工)
++ employment_2022_female.csv
+  + 就業構造基本調査の女性のデータ(xlsxを加工)
