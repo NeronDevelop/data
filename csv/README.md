@@ -7,4 +7,4 @@
 + employment_2022_male.csv
   + 就業構造基本調査の男性のデータ(xlsxを加工)
 + employment_2022_female.csv
-  + 就業構造基本調査の女性のデータ(xlsxを加工)
+  + 就業構造基本調査の女性のデータ(xlsxを加工)shu
